@@ -5,6 +5,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;" alt="Headline" />
 </div>  
 <p align="center"><a href="">Portfolio↗️</a></p>
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.TrustM3Block.TrustM3Notes">My app in play store↗️</a></p>
 
 <h3> 💻 &nbsp;About Me </h3>
 
