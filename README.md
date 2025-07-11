@@ -9,8 +9,8 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 👋 &nbsp; Hi! I'm Lucas Aguilar, a passionate developer in training, 22 years old.
-- 🎓 &nbsp; Currently studying for a Bachelor's in Systems and two courses away from finishing a University Technician degree in Informatics.
+- 👋 &nbsp; Hi! I'm Lucas Aguilar, a passionate developer in training, 23 years old.
+- 🎓 &nbsp; I'm a University Technician in Informatics and currently have 11 courses left to finish my Bachelor's degree in Systems.
 - 🔍 &nbsp; I specialize in developing applications and managing software projects, leading teams and delivering solutions on time.
 - 📱 &nbsp; I have created and published a notes application on the Play Store in Kotlin with self-managed ads.
 - 🔧 &nbsp; Experienced in Java, Kotlin, HTML, React, and UML, with an advanced level of English.
